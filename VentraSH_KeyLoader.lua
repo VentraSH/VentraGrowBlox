@@ -7,8 +7,8 @@
 -- ║  CONFIG — isi 5 baris ini saja           ║
 -- ╚══════════════════════════════════════════╝
 local _C={
-    _1="https://raw.githubusercontent.com/NAMA_KAMU/keys/main/keys.txt",
-    _2="https://raw.githubusercontent.com/NAMA_KAMU/repo/main/VentraSH.lua",
+    _1="https://raw.githubusercontent.com/VentraSH/ventrasystemkey/main/keys.txt",
+    _2="https://raw.githubusercontent.com/VentraSH/VentraGrowBlox/main/VentraSH_KeyLoader.lua",
     _3="VentraSH_Key.txt",
     _4="9074464780:AAHKbdzLBYEQBELBGxouoH8MkHUxyL0rigU",
     _5=819302344,
